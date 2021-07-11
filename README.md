@@ -1,5 +1,7 @@
 Hi, I am Sidney de Sousa.
 
-My major area of interest is in Software Development, and I am open to contribute where I can.
+I am an Application Developer with interest in various aspects of Agile Methods, Software  Development technologies.
+Professional, I've assisted various companies within the PHP stack.
 
-I'm now in the process of exploring Node.JS :)
+Currently, even though I work as a PHP Developer, JavaScript is my main area of interest, which keeps me quite busy during and off working hours :).
+
